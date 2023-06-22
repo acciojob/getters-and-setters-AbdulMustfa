@@ -1,7 +1,7 @@
 //complete this code
 class Person{
-	constructor (name,age){
-		this.name=name;
+	constructor(name,age){
+		this.name=" ";
 		this.age=age;
 	}
 	get name(){
